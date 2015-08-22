@@ -1,0 +1,75 @@
+.container{
+	margin-top: 30px;
+}
+
+.widebanner{
+	height: 450px;
+	width: 1140px;
+}
+
+.tiny{
+	height: 150px;
+	width: 150px;
+
+}
+.med{
+	width: 555px;
+	height: 360px;
+}
+
+
+h1{
+font-family: 'Francois One', sans-serif;
+font-size: 70px;
+margin-bottom: -20px;
+}
+
+h3{
+font-family: 'Open Sans', sans-serif;
+	font-weight: 450;	
+	margin-bottom:5px;
+}
+
+.topright{
+	display: flex;
+}
+.joke{
+	font-weight: 300;
+margin-left: 5px;
+}
+
+.bgblue{
+	background-color: black;
+	color: #B5B5AE;
+	text-align: center;
+}
+
+.thickhr{
+	border: 3.5px solid #D0C4AB;
+	color: #D0C4AB;
+	margin-top: 25px;
+	margin-bottom: 20px;	
+
+}
+
+#feat
+{
+	color:#B5B5AE;
+	margin-top: 35px;
+	text-align: center;
+	font-size: 35px;
+	margin-bottom: 17px;
+}
+
+.left-margin{
+	padding-left: 33px;
+}
+.right-margin{
+	padding-right: 33px;
+}
+
+a:link{
+	text-decoration: none;
+	font-size:	17px;
+	top-
+}
