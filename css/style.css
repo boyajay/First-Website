@@ -1,20 +1,24 @@
+
 .container{
-	margin-top: 30px;
+	margin: 10px auto;
+	padding-left: 5%;
+	padding-right: 5%;
 }
 
 .widebanner{
-	height: 450px;
+	height: 400px;
 	width: 1140px;
 }
 
 .tiny{
-	height: 150px;
-	width: 150px;
-
+	height: 130px;
+	width: 130px;
+	margin: 5px 0 -10px 35px;
 }
 .med{
 	width: 555px;
 	height: 360px;
+	border-radius: 20px;
 }
 
 
@@ -42,6 +46,7 @@ margin-left: 5px;
 	background-color: black;
 	color: #B5B5AE;
 	text-align: center;
+	padding-bottom: 30px;
 }
 
 .thickhr{
@@ -55,10 +60,10 @@ margin-left: 5px;
 #feat
 {
 	color:#B5B5AE;
-	margin-top: 35px;
+	margin-top: 30px;
 	text-align: center;
-	font-size: 35px;
-	margin-bottom: 17px;
+	font-size: 30px;
+	margin-bottom: 10px;
 }
 
 .left-margin{
@@ -71,5 +76,91 @@ margin-left: 5px;
 a:link{
 	text-decoration: none;
 	font-size:	17px;
-	top-
+	
 }
+
+p a {
+
+	color: #996600;
+}
+
+
+nav{
+		margin: 0 auto;
+		text-align: center;
+}
+
+nav ul{
+	list-style: none;
+}
+
+nav li {
+
+	display: inline-block;
+	margin: 0% 3% 1% 3%;
+	font-family: 'Raleway', sans-serif;
+	color: #996600;
+	
+}
+
+nav a{
+		color: #996600;
+		font-weight: 600;
+}
+
+
+.navbar:hover {
+  color: 	black;
+}
+
+#current {
+  color: 	black;
+  font-size: 16px;
+}
+
+
+footer{
+text-align: center;
+margin-top: 17px;
+
+}
+footer img{
+	margin: auto;
+	width: 50px;
+	height: 50px;
+}
+
+#sig{
+	font-size: 11px;
+}
+
+/*  ABOUT ME */
+
+
+#aboutme {
+	margin-top: 5%;
+	margin-bottom: 4%;
+	padding-left: 20%;
+	padding-right: 20%;
+	font-family: 'Crete Round', serif;
+	font-size: 180%;
+	text-indent: 20px;
+	text-align: justify;
+}
+
+#contact {
+	margin-top: 5%;
+	margin-bottom: 4%;
+	padding-left: 20%;
+	padding-right: 20%;
+	font-family: 'Crete Round', serif;
+	font-size: 180%;
+	text-align: justify;
+}
+
+
+
+
+
+
+
