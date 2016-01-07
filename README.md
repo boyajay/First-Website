@@ -1,0 +1,1 @@
+This website was the first website that I created using Bootstrap. The images are all public stock photos. The links to my four other web projects  may no longer be live, although I will attempt to fix these in the near future.
