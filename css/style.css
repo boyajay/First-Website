@@ -22,7 +22,7 @@
 }
 
 .med:hover { 
-	border: 5px solid white;
+	border: 5px solid #5c93c9;
 }
 
 .workrow {
@@ -92,7 +92,7 @@ a:link {
 
 p a {
 
-	color: #996600;
+	color: white;
 }
 
 
